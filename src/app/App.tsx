@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { GlobalStyles } from "./GlobalStyles";
 import { RawToDo, ToDoList } from "../entities/toDo/toDo";
+import { GlobalStyles } from "./GlobalStyles";
 
 export const App = () => {
     const [toDo, setToDo] = useState<RawToDo>({ text: "" });
