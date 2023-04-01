@@ -4,3 +4,4 @@
 **/design
 **/.next
 **/*-lock*
+src-tauri/target/*
