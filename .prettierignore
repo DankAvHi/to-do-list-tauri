@@ -1,0 +1,6 @@
+**/.git
+**/node_modules
+**/out
+**/design
+**/.next
+**/*-lock*
